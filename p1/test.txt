@@ -1,0 +1,26 @@
+n : integer
+t : array (20) of integer;
+
+2n
+3mmm
+444h
+9_9
+7_a
+8_
+_7
+_one
+two_
+three_four
+?
+!
+n2
+next
+
+
+
+k := 0
+n := 20
+
+endprogram
+
+
